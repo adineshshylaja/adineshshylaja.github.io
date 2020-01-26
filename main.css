@@ -40,6 +40,6 @@ uncommenting background-repeat line will restrict formation of multiple images w
 .back{
     background-image: url("IMG_0743.JPG");
     background-size: cover;
-    background-repeat: no-repeat;
+   /*background-repeat: no-repeat;*/
 }
 
