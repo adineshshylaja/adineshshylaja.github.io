@@ -6,6 +6,5 @@ here </a>.
 
 ![Image](https://github.com/adineshshylaja/adineshshylaja.github.io/blob/master/University%20of%20Nebraska%20at%20Omaha.jpg)
 
-![https://github.com/adineshshylaja/adineshshylaja.github.io/blob/master/University%20of%20Nebraska%20at%20Omaha.jpg]
-
+![image here](https://github.com/adineshshylaja/adineshshylaja.github.io/blob/master/University%20of%20Nebraska%20at%20Omaha.jpg)
 
