@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/adineshshylaja/adineshshylaja.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+Hello! My name is Aparna Dinesh Shylaja and you can call me Aparna. I am from Bangalore, India. I have lived in Omaha, Nebraska from the past 4 years. I love cycling and you can always find me at <a target="_blank" href="https://www.visitomaha.com/listings/zorinsky-lake-park/63952/">zorinsky lake</a> every evening during the summer.I am obessed with ice-cream so if you want to find the best ice-cream at Nebraska, you know who can help you! I love travelling and have been on a lot of road trips right from Niagara falls to Seattle, Washington. My all time favourite trip though was to Holland, Michigan. Follow <a target="_blank" href="trip.html">this</a> link for more details on this trip. I have worked as a Business Analyst at Societe Generale Global Solution, Bangalore for two years. My domain was PeopleSoft. I also have some experience as a production support engineer in the same area. I am currently in my first semester of my Masters in MIS at UNO. For more details on this degree, please click <a target="_blank" href="https://www.unomaha.edu/college-of-information-science-and-technology/information-systems-and-quantitative-analysis/graduate/MS-management-information-systems.php"> 
+here </a>.<br>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adineshshylaja/adineshshylaja.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
